@@ -1,0 +1,10 @@
+#slikca {
+  background-image: url('https://www.cnet.com/a/img/fhHLbWY2kxWhGyotSJPbcMEmRZQ=/940x0/2020/10/22/38a7e254-8946-4c29-a4ca-d7776c1c6467/huawei-mate-40-pro-product-hoyle-7.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  background-size: cover;
+  font-size: 30px;
+}
